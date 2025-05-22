@@ -1,4 +1,4 @@
-This package of Matlab codes are developed for implementing the developments in the following paper.
+This package of Matlab codes are developed for implementing the developments in the following paper. Feel free to contact me at pengfeiwei@nwpu.edu.cn if you have any question.
 
 Wei, P., Zheng, Y., Fu, J., Xu, Y., & Gao, W. (2023). An expected integrated error reduction function for accelerating Bayesian active learning of failure probability. Reliability Engineering & System Safety, 231, 108971.
 
